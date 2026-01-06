@@ -1,0 +1,62 @@
+[
+  {
+    "week_number": 1,
+    "title": "Fertilization",
+    "summary": "Fertilization occurs when a sperm successfully penetrates an egg, forming a single-celled zygote that contains the full genetic blueprint for human development.",
+    "key_developments": [
+      "Sperm fertilizes egg",
+      "Zygote is formed",
+      "Genetic material from both parents combines"
+    ],
+    "size_comparison": "Microscopic",
+    "systems_developing": ["Genetic blueprint"]
+  },
+  {
+    "week_number": 2,
+    "title": "Implantation",
+    "summary": "The zygote divides repeatedly and implants itself into the uterine wall, beginning a more stable phase of development.",
+    "key_developments": [
+      "Rapid cell division",
+      "Blastocyst formation",
+      "Implantation into uterus"
+    ],
+    "size_comparison": "Poppy seed",
+    "systems_developing": ["Placental support"]
+  },
+  {
+    "week_number": 3,
+    "title": "Body Axis Formation",
+    "summary": "The embryo begins forming its basic body plan, establishing the head-to-tail and front-to-back axes.",
+    "key_developments": [
+      "Neural tube begins forming",
+      "Heart cells start organizing",
+      "Body symmetry established"
+    ],
+    "size_comparison": "Sesame seed",
+    "systems_developing": ["Nervous system", "Circulatory system"]
+  },
+  {
+    "week_number": 4,
+    "title": "Early Organ Development",
+    "summary": "Major organs begin to take shape as the embryo rapidly grows and folds into a more recognizable form.",
+    "key_developments": [
+      "Heart begins beating",
+      "Limb buds appear",
+      "Brain regions begin forming"
+    ],
+    "size_comparison": "Lentil",
+    "systems_developing": ["Heart", "Brain", "Limbs"]
+  },
+  {
+    "week_number": 5,
+    "title": "Rapid Brain Growth",
+    "summary": "The brain grows rapidly, and facial features begin to form as development accelerates.",
+    "key_developments": [
+      "Brain expands rapidly",
+      "Facial features start forming",
+      "Major organs continue developing"
+    ],
+    "size_comparison": "Orange seed",
+    "systems_developing": ["Brain", "Sensory systems"]
+  }
+]
