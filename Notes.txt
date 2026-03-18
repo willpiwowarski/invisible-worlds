@@ -1,0 +1,20 @@
+backend: uvicorn app.main:app --reload
+frontend: npm start
+
+create .gitignore file with all of the items you do not want git to track (put at the highest level inside your project)
+git init
+git status
+git add .
+git commit -m "message"
+Go to GitHub and create a new repository and name it
+git branch -M main
+git remote add origin https://github.com/willpiwowarski/invisible-worlds.git
+git push -u origin main
+
+Each future push
+git status
+git add .
+git commit -m "Describe what changed"
+git push
+
+npx prettier --write (and then the path)

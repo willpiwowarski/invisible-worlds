@@ -1,6 +1,7 @@
 [
   {
     "week_number": 1,
+    "trimester": 1,
     "title": "Fertilization",
     "summary": "Fertilization occurs when a sperm successfully penetrates an egg, forming a single-celled zygote that contains the full genetic blueprint for human development.",
     "key_developments": [
@@ -13,6 +14,7 @@
   },
   {
     "week_number": 2,
+    "trimester": 1,
     "title": "Implantation",
     "summary": "The zygote divides repeatedly and implants itself into the uterine wall, beginning a more stable phase of development.",
     "key_developments": [
@@ -25,6 +27,7 @@
   },
   {
     "week_number": 3,
+    "trimester": 1,
     "title": "Body Axis Formation",
     "summary": "The embryo begins forming its basic body plan, establishing the head-to-tail and front-to-back axes.",
     "key_developments": [
@@ -37,6 +40,7 @@
   },
   {
     "week_number": 4,
+    "trimester": 1,
     "title": "Early Organ Development",
     "summary": "Major organs begin to take shape as the embryo rapidly grows and folds into a more recognizable form.",
     "key_developments": [
@@ -49,6 +53,7 @@
   },
   {
     "week_number": 5,
+    "trimester": 1,
     "title": "Rapid Brain Growth",
     "summary": "The brain grows rapidly, and facial features begin to form as development accelerates.",
     "key_developments": [
@@ -58,5 +63,460 @@
     ],
     "size_comparison": "Orange seed",
     "systems_developing": ["Brain", "Sensory systems"]
+  },
+  {
+    "week_number": 6,
+    "trimester": 1,
+    "title": "Facial Formation",
+    "summary": "Facial features become more distinct as the brain and sensory organs continue developing.",
+    "key_developments": [
+      "Eye structures become visible",
+      "Brain continues rapid growth",
+      "Internal organs develop further"
+    ],
+    "size_comparison": "Lentil",
+    "systems_developing": ["Nervous System", "Sensory Systems"]
+  },
+  {
+    "week_number": 7,
+    "trimester": 1,
+    "title": "Limb Differentiation",
+    "summary": "Arms and legs become more defined, with early joint formation beginning.",
+    "key_developments": [
+      "Limb segments form",
+      "Hands and feet differentiate",
+      "Brain growth continues"
+    ],
+    "size_comparison": "Blueberry",
+    "systems_developing": ["Musculoskeletal System", "Nervous System"]
+  },
+  {
+    "week_number": 8,
+    "trimester": 2,
+    "title": "Organ Development",
+    "summary": "Major internal organs become more functional as the body grows rapidly.",
+    "key_developments": [
+      "Liver starts producing red blood cells",
+      "Brain waves become detectable",
+      "Facial features become more defined"
+    ],
+    "size_comparison": "Kidney bean",
+    "systems_developing": ["Circulatory System", "Nervous System"]
+  },
+  {
+    "week_number": 9,
+    "trimester": 2,
+    "title": "External Features Develop",
+    "summary": "External features like eyebrows, eyelids, and ears begin to form.",
+    "key_developments": [
+      "Facial muscles start working",
+      "Hands start forming distinct fingers",
+      "Eyelids begin to fuse"
+    ],
+    "size_comparison": "Grape",
+    "systems_developing": ["Skeletal System", "Muscular System"]
+  },
+  {
+    "week_number": 10,
+    "trimester": 2,
+    "title": "Bone Formation",
+    "summary": "Bones begin forming as cartilage hardens into bone, especially in the hands and feet.",
+    "key_developments": [
+      "Fingers and toes form distinct ridges",
+      "Facial features are fully developed",
+      "Bones start to ossify"
+    ],
+    "size_comparison": "Lemon",
+    "systems_developing": ["Skeletal System", "Nervous System"]
+  },
+  {
+    "week_number": 11,
+    "trimester": 2,
+    "title": "Facial and Limb Refinement",
+    "summary": "Facial and limb refinement continues as bone growth and muscle development increase.",
+    "key_developments": [
+      "Fingers and toes separate more distinctly",
+      "Nails begin to form",
+      "Facial features finalize"
+    ],
+    "size_comparison": "Lime",
+    "systems_developing": ["Musculoskeletal System", "Nervous System"]
+  },
+  {
+    "week_number": 12,
+    "trimester": 2,
+    "title": "Sensory Organs Mature",
+    "summary": "The sensory organs mature, and the fetus can sense light and sound.",
+    "key_developments": [
+      "Ears are fully formed",
+      "Eyes are open",
+      "Fetus can sense light"
+    ],
+    "size_comparison": "Plum",
+    "systems_developing": ["Sensory Systems", "Nervous System"]
+  },
+  {
+    "week_number": 13,
+    "trimester": 2,
+    "title": "First Movements",
+    "summary": "The fetus begins to move, although the movements are still very subtle.",
+    "key_developments": [
+      "Fetal movements are noticeable",
+      "Nervous system is more active",
+      "Organs continue to mature"
+    ],
+    "size_comparison": "Peach",
+    "systems_developing": ["Nervous System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 14,
+    "trimester": 2,
+    "title": "Growth and Strength",
+    "summary": "The fetus is growing rapidly and gaining strength in preparation for later stages.",
+    "key_developments": [
+      "Bones continue to harden",
+      "Muscles grow stronger",
+      "Facial features become more distinct"
+    ],
+    "size_comparison": "Apple",
+    "systems_developing": ["Musculoskeletal System", "Nervous System"]
+  },
+  {
+    "week_number": 15,
+    "trimester": 3,
+    "title": "Heart Development",
+    "summary": "The heart is now fully functional, pumping blood through the fetus's circulatory system.",
+    "key_developments": [
+      "Heart rate is steady",
+      "Blood circulation is fully operational",
+      "Lungs begin to mature"
+    ],
+    "size_comparison": "Orange",
+    "systems_developing": ["Cardiovascular System", "Respiratory System"]
+  },
+  {
+    "week_number": 16,
+    "trimester": 3,
+    "title": "Refining the Nervous System",
+    "summary": "The nervous system is maturing, and the fetus is starting to respond to stimuli.",
+    "key_developments": [
+      "Fetal movements become stronger",
+      "Nervous system activity increases",
+      "Fetus begins responding to external sounds"
+    ],
+    "size_comparison": "Avocado",
+    "systems_developing": ["Nervous System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 17,
+    "trimester": 3,
+    "title": "Fat and Weight Gain",
+    "summary": "The fetus begins to gain fat and grow in weight rapidly.",
+    "key_developments": [
+      "Fat begins to accumulate under skin",
+      "Fetal movements become more pronounced",
+      "Lungs and digestive system are maturing"
+    ],
+    "size_comparison": "Sweet potato",
+    "systems_developing": ["Musculoskeletal System", "Cardiovascular System"]
+  },
+  {
+    "week_number": 18,
+    "trimester": 3,
+    "title": "Lung Development",
+    "summary": "The lungs continue to mature, and the fetus is able to practice breathing movements.",
+    "key_developments": [
+      "Lungs produce surfactant",
+      "Fetal heart rate becomes steady",
+      "Facial features refine further"
+    ],
+    "size_comparison": "Bell pepper",
+    "systems_developing": ["Respiratory System", "Cardiovascular System"]
+  },
+  {
+    "week_number": 19,
+    "trimester": 3,
+    "title": "Bone Maturation",
+    "summary": "The fetus's bones are hardening further and becoming stronger.",
+    "key_developments": [
+      "Skeleton continues to harden",
+      "Fetal movement becomes more noticeable",
+      "Eyes are fully formed"
+    ],
+    "size_comparison": "Mango",
+    "systems_developing": ["Musculoskeletal System", "Nervous System"]
+  },
+  {
+    "week_number": 20,
+    "trimester": 3,
+    "title": "Developing Reflexes",
+    "summary": "The fetus begins developing reflexes and is able to swallow and suck.",
+    "key_developments": [
+      "Develops the ability to suck and swallow",
+      "Fetal movement is easier to feel",
+      "Fetal heartbeat can be detected externally"
+    ],
+    "size_comparison": "Banana",
+    "systems_developing": ["Nervous System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 21,
+    "trimester": 3,
+    "title": "Growing Eyebrows and Hair",
+    "summary": "Eyebrows and hair begin to form, and the skin becomes more opaque.",
+    "key_developments": [
+      "Skin becomes less transparent",
+      "Hair begins to grow on head",
+      "Nails start to form"
+    ],
+    "size_comparison": "Carrot",
+    "systems_developing": ["Integumentary System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 22,
+    "trimester": 3,
+    "title": "Hearing and Response to Sound",
+    "summary": "The fetus is now able to hear external sounds and react to them.",
+    "key_developments": [
+      "Hearing is fully developed",
+      "Fetal movements can be felt strongly",
+      "Brain activity continues to increase"
+    ],
+    "size_comparison": "Spaghetti squash",
+    "systems_developing": ["Sensory Systems", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 23,
+    "trimester": 3,
+    "title": "Breathing Movements",
+    "summary": "The fetus practices breathing movements, although it doesn't yet breathe air.",
+    "key_developments": [
+      "Lungs continue to mature",
+      "Breathing movements are observable",
+      "Fetus may begin responding to touch"
+    ],
+    "size_comparison": "Papaya",
+    "systems_developing": ["Respiratory System", "Nervous System"]
+  },
+  {
+    "week_number": 24,
+    "trimester": 3,
+    "title": "Further Lung Maturation",
+    "summary": "Lungs continue to mature, and the fetus begins to develop fat under the skin.",
+    "key_developments": [
+      "Fetal fat begins to accumulate",
+      "Lungs produce more surfactant",
+      "Fetus develops rapid eye movements"
+    ],
+    "size_comparison": "Cantaloupe",
+    "systems_developing": ["Musculoskeletal System", "Respiratory System"]
+  },
+  {
+    "week_number": 25,
+    "trimester": 3,
+    "title": "Growing and Developing Organ Systems",
+    "summary": "The fetus's organs continue to grow and mature, and it gains more weight.",
+    "key_developments": [
+      "Fat accumulates more rapidly",
+      "Brain waves are strong and detectable",
+      "Lungs continue to develop"
+    ],
+    "size_comparison": "Cauliflower",
+    "systems_developing": ["Musculoskeletal System", "Cardiovascular System"]
+  },
+  {
+    "week_number": 26,
+    "trimester": 3,
+    "title": "Rapid Growth Continues",
+    "summary": "The fetus grows rapidly in size and its bones become even more developed.",
+    "key_developments": [
+      "Bones continue to harden",
+      "Eyes can open and close",
+      "Nervous system becomes more active"
+    ],
+    "size_comparison": "Zucchini",
+    "systems_developing": ["Skeletal System", "Nervous System"]
+  },
+  {
+    "week_number": 27,
+    "trimester": 3,
+    "title": "Final Preparations",
+    "summary": "The fetus finishes its final growth spurt and prepares for birth.",
+    "key_developments": [
+      "Nervous system continues to mature",
+      "Fetus continues to gain fat",
+      "Lungs fully mature"
+    ],
+    "size_comparison": "Romaine lettuce",
+    "systems_developing": ["Cardiovascular System", "Respiratory System"]
+  },
+  {
+    "week_number": 28,
+    "trimester": 3,
+    "title": "Full Term",
+    "summary": "The fetus is fully developed and ready for birth.",
+    "key_developments": [
+      "All organ systems are now functioning",
+      "The fetus continues to gain weight",
+      "The fetus is able to regulate body temperature"
+    ],
+    "size_comparison": "Eggplant",
+    "systems_developing": ["All systems"]
+  },
+  {
+    "week_number": 29,
+    "trimester": 3,
+    "title": "Final Growth Spurt",
+    "summary": "The fetus experiences rapid growth and gains fat, with skin becoming smoother and less wrinkled.",
+    "key_developments": [
+      "Rapid weight gain",
+      "Lungs continue to mature",
+      "Eyes are fully open"
+    ],
+    "size_comparison": "Butternut squash",
+    "systems_developing": ["Respiratory System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 30,
+    "trimester": 3,
+    "title": "Maturation of Organ Systems",
+    "summary": "Organ systems continue to mature and prepare for life outside the womb.",
+    "key_developments": [
+      "The lungs mature significantly",
+      "Fat stores increase",
+      "Fetus develops more muscle tone"
+    ],
+    "size_comparison": "Cabbage",
+    "systems_developing": ["Respiratory System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 31,
+    "trimester": 3,
+    "title": "Increased Movement",
+    "summary": "The fetus becomes more active, moving frequently and practicing breathing motions.",
+    "key_developments": [
+      "Fetal movements become more noticeable",
+      "Brain activity increases",
+      "Lungs continue developing"
+    ],
+    "size_comparison": "Carrot",
+    "systems_developing": ["Musculoskeletal System", "Respiratory System"]
+  },
+  {
+    "week_number": 32,
+    "trimester": 3,
+    "title": "Brain Development",
+    "summary": "The brain continues to mature, with more distinct brain wave patterns and more organized functions.",
+    "key_developments": [
+      "The fetus begins to store fat",
+      "Lungs continue to develop",
+      "Brain waves become more detectable"
+    ],
+    "size_comparison": "Squash",
+    "systems_developing": ["Brain", "Respiratory System"]
+  },
+  {
+    "week_number": 33,
+    "trimester": 3,
+    "title": "Refinement of Systems",
+    "summary": "All major organ systems are fully developed, and the fetus gains more weight.",
+    "key_developments": [
+      "Lungs are close to full maturity",
+      "The fetus begins practicing breathing",
+      "Fat is stored under the skin"
+    ],
+    "size_comparison": "Pineapple",
+    "systems_developing": ["Respiratory System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 34,
+    "trimester": 3,
+    "title": "Final Preparation for Birth",
+    "summary": "The fetus is preparing for birth, with all organs functioning and systems finalizing their development.",
+    "key_developments": [
+      "The fetus is gaining weight quickly",
+      "The nervous system matures",
+      "Lungs are nearly fully mature"
+    ],
+    "size_comparison": "Cantaloupe",
+    "systems_developing": ["All systems"]
+  },
+  {
+    "week_number": 35,
+    "trimester": 3,
+    "title": "Fat Accumulation",
+    "summary": "The fetus accumulates fat, and skin becomes less wrinkled.",
+    "key_developments": [
+      "The body stores fat for energy",
+      "Bones continue to harden",
+      "The fetus practices sucking and swallowing"
+    ],
+    "size_comparison": "Honeydew melon",
+    "systems_developing": ["Integumentary System", "Musculoskeletal System"]
+  },
+  {
+    "week_number": 36,
+    "trimester": 3,
+    "title": "Ready for Birth",
+    "summary": "The fetus is ready for life outside the womb, with fully developed organs and systems.",
+    "key_developments": [
+      "The fetus can regulate its body temperature",
+      "The lungs are fully mature",
+      "The digestive system is ready for feeding"
+    ],
+    "size_comparison": "Watermelon",
+    "systems_developing": ["All systems"]
+  },
+  {
+    "week_number": 37,
+    "trimester": 3,
+    "title": "Final Maturation",
+    "summary": "The fetus's lungs and brain continue to mature as it prepares for birth.",
+    "key_developments": [
+      "The fetus begins to practice breathing",
+      "The nervous system and brain become more active",
+      "Fat is fully stored under the skin"
+    ],
+    "size_comparison": "Romanesco broccoli",
+    "systems_developing": ["Respiratory System", "Nervous System"]
+  },
+  {
+    "week_number": 38,
+    "trimester": 3,
+    "title": "Labor Approaching",
+    "summary": "The fetus is almost ready for labor, as it has fully developed systems and is nearly full-term.",
+    "key_developments": [
+      "The head drops lower into the pelvis",
+      "The lungs are fully functioning",
+      "The fetus is ready for birth"
+    ],
+    "size_comparison": "Leek",
+    "systems_developing": ["All systems"]
+  },
+  {
+    "week_number": 39,
+    "trimester": 3,
+    "title": "Full Term",
+    "summary": "The fetus is now considered full-term and ready to be born.",
+    "key_developments": [
+      "The fetus is completely developed",
+      "The lungs are ready to breathe air",
+      "The fetus is gaining weight rapidly"
+    ],
+    "size_comparison": "Mini watermelon",
+    "systems_developing": ["All systems"]
+  },
+  {
+    "week_number": 40,
+    "trimester": 3,
+    "title": "Birth",
+    "summary": "The baby is born, ready for life outside the womb.",
+    "key_developments": [
+      "The baby breathes air for the first time",
+      "Organs continue maturing outside the womb",
+      "The body begins its first stages of adaptation"
+    ],
+    "size_comparison": "Pumpkin",
+    "systems_developing": ["All systems"]
   }
 ]
