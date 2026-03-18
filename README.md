@@ -42,7 +42,7 @@
 
 ### Screenshots:
 
-![Human Development Timeline](images/humandevelopment.png)
+![Human Development Timeline](images/hdt.png)
 
 ### Future Features:
 - **Base44 Integration**: A system that allows for personalized timelines.
