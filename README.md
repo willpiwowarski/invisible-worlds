@@ -17,7 +17,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/invisible-worlds.git
+    git clone https://github.com/willpiwowarski/invisible-worlds.git
     cd invisible-worlds
     ```
 
